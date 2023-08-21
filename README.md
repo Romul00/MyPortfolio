@@ -31,7 +31,7 @@
  
  <p>Выводы (итоги):<p>
 <ol>
-  > <a href="https://qabugreport1337.atlassian.net/wiki/spaces/~63d172f0f386bda5dcabcc2c/pages/360449](https://qabugreport1337.atlassian.net/wiki/spaces/~63d172f0f386bda5dcabcc2c/pages/2195595)">Итог</a>
+  > <a href="https://qabugreport1337.atlassian.net/wiki/spaces/~63d172f0f386bda5dcabcc2c/pages/2195595">Итог</a>
 </ol>
 
 
@@ -58,6 +58,5 @@
 
 
 ## Контактная информация
-- Email: name@email.com
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+- Email: ramil-yahin@mail.ru
+
