@@ -24,14 +24,13 @@
 
 <p>Как решал: краткое описание решения (автореферат)<p>
 
-> <a href="https://qabugreport1337.atlassian.net/wiki/spaces/~63d172f0f386bda5dcabcc2c/pages/360449">Ссылка на проект</a>
-  (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
+> <a href="https://qabugreport1337.atlassian.net/wiki/spaces/~63d172f0f386bda5dcabcc2c/pages/2195499">Ссылка на проект</a>
 > <p> логин: ramil-yahin@mail.ru </p>
 > <p> пароль: Romul178228! </p>
  
  <p>Выводы (итоги):<p>
 <ol>
-  > <a href="https://qabugreport1337.atlassian.net/wiki/spaces/~63d172f0f386bda5dcabcc2c/pages/2195595">Итог</a>
+  > <a href="https://qabugreport1337.atlassian.net/wiki/spaces/~63d172f0f386bda5dcabcc2c/pages/2326550">Итог</a>
 </ol>
 
 
