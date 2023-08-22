@@ -7,11 +7,8 @@
 <br>
 
 ## Навыки и технологии
-``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
-``SoapUI``, ``Android Studio``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``.
-
-
-
+``Jira``,``qase.io``,``SQL``,`` Postman``, ``Swagger``, ``Trello``, <br>
+``SoapUI``, ``Android Studio``, ``xCode``,``Git``, ``Chrome DevTools``.
 
 ## Проекты
 
@@ -25,40 +22,51 @@
    <li>Тестирование API</li>
 </ol>
 
-<p>Как решал: краткое описание решения (автореферат)<p>
+<p>Как решал: <p>
 
 > <a href="https://qabugreport1337.atlassian.net/wiki/spaces/~63d172f0f386bda5dcabcc2c/pages/2195499">Ссылка на проект</a>
-> <p> логин: ramil-yahin@mail.ru </p>
-> <p> пароль: Romul178228! </p>
+
  
- <p>Выводы (итоги):<p>
+ <p>Выводы:<p>
 <ol>
-  > <a href="https://qabugreport1337.atlassian.net/wiki/spaces/~63d172f0f386bda5dcabcc2c/pages/2326550">Итог</a>
+   <a href="https://qabugreport1337.atlassian.net/wiki/spaces/~63d172f0f386bda5dcabcc2c/pages/2326550">Итог</a>: составлен план тестирования.
+
+ <li>Проведены следующие виды тестирования </li>
+ <li>Тестирование требований</li>
+ <li>Функциональное тестирование (компонентов, интеграции, системы) (чеклист) </li>
+ <li>Smoke тест</li>
+ <li>Приемочное тестирование</li>
+ <li>API тестирование  </li>
 </ol>
 
 
 <br> 
 
-<p> Проект 2: тест кабинета учителя в приложении Skyeng</p>
+<p> Проект 2: тестирование онлайн - библиотеки Skyeng</p>
 <p>Что нужно было сделать:<p>
 <ol>
-  <li>Задача №1</li>
-  <li>Задача №2.</li>
+  <li>Составить план тестирования </li>
+  <li>Провести все запланированные тесты </li>
+  <li>Зафиксировать найденные дефекты, приложить диаграммы </li>
 </ol>
 
-<p>Как решала(-а): краткое описание решения (автореферат)<p>
+<p>Как решал:<p>
 
->  <a href="https://fogen.notion.site/fogen/1-2-Web-REST-API-Postman-5f1700d11e1840b2a4e244b38cb0190f">Ссылка на проект</a>
-  (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
- 
- <p>Выводы (итоги):<p>
+>  <a href="https://qabugreport1337.atlassian.net/wiki/spaces/~63d172f0f386bda5dcabcc2c/pages/2195595">Ссылка на проект</a>
+
+ <p>Итог:<p>
 <ol>
-  <li>Итог №1</li>
-  <li>Итог №2</li>
+  <li>составлен план тестирования</li>
+  <li>Smoke testing</li>
+ <li> Регрессивное тестирование </li>
+ <li> Тестирование новой фунциональности</li>
+ <li> Повторное тестирование </li>
+ <li> функциональное тестирование (компонентов, интеграции, системы)</li>
+ <li> UX/UI </li>
 </ol>
 
 
 
 ## Контактная информация
-- Email: ramil-yahin@mail.ru
+- Email: gimunemashirubesta@gmail.com
 
